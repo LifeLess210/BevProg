@@ -7,7 +7,7 @@ int main()
 	cin >> nev;
 	cout <<"Dear, "<<nev<<"!\n";
 	cout << "How are you? I am fine. I miss you.\n";
-	string barat = "Károly";
+	string barat << cin;
 	cout << "Have you seen "<<barat<<" lately\n";
 	char nem = '0';
 	cout << "Add meg a barát nemét(m/f)\n";
